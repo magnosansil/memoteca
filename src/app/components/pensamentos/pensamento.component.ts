@@ -1,10 +1,10 @@
 import { Component, Input, OnInit } from '@angular/core';
-import { Pensamento } from '../pensamento';
+import { Pensamento } from './pensamento';
 
 @Component({
   selector: 'app-pensamento',
-  templateUrl: './pensamento.component.html',
-  styleUrls: ['./pensamento.component.css']
+  templateUrl: './pensamento/pensamento.component.html',
+  styleUrls: ['./pensamento/pensamento.component.css']
 })
 export class PensamentoComponent implements OnInit {
 

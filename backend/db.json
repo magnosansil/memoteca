@@ -1,40 +1,22 @@
 {
   "pensamentos": [
     {
-      "id": "1",
-      "conteudo": "Que bom que você veio!",
-      "autoria": "Magno",
-      "modelo": "modelo1"
-    },
-    {
-      "id": "2",
-      "conteudo": "Estudando Angular.",
+      "id": "5066",
+      "conteudo": "Olá!! O flamengo é o maior time do mundo",
       "autoria": "Magno",
       "modelo": "modelo2"
     },
     {
-      "id": "3",
-      "conteudo": "Flamengo é gigante!",
-      "autoria": "Magno",
-      "modelo": "modelo3"
-    },
-    {
-      "id": "30c9",
-      "conteudo": "bfvdc",
-      "autoria": "fg",
+      "id": "0c25",
+      "conteudo": "Algo de errado não está certo",
+      "autoria": "Thalison",
       "modelo": "modelo1"
     },
     {
-      "id": "5ec5",
-      "conteudo": "szdfgds",
-      "autoria": "dsgags",
+      "id": "4deb",
+      "conteudo": "Se um tubarão é um tubara grande e um golfinho é um golfo pequeno, então um golfão é muito maior do que um tubarão.",
+      "autoria": "Thalison Botelho",
       "modelo": "modelo3"
-    },
-    {
-      "id": "567d",
-      "conteudo": "gd",
-      "autoria": "gds",
-      "modelo": "modelo1"
     }
   ]
 }
